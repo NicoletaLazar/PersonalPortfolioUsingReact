@@ -2,10 +2,10 @@
 This project is a static portfolio created using React, Chakra UI, Yup frameworks.
 
 Welcome to my portfolio page! This project showcases my skills and experienced in a static website built using React, Chakra UI and Yup frameworks. The portfolio page will be a single page that will contain four sections:
-- **A header with external links to social media accounts and internal links to other sections of the page
-- **A landing section with an avatar picture and a short bio
-- **A section to display ideas of projects as cards in a grid fashion
-- **A contact me section with a form to allow visitors to contact me
+- A header with external links to social media accounts and internal links to other sections of the page
+- A landing section with an avatar picture and a short bio
+- A section to display ideas of projects as cards in a grid fashion
+- A contact me section with a form to allow visitors to contact me
 
 ## Features
 
@@ -17,7 +17,7 @@ Welcome to my portfolio page! This project showcases my skills and experienced i
 ## Technologies Used
 
 - React: A JavaScript library for building user interfaces.
-- Chakra UI: A simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
+- Chakra UI: A simple, modular and accessible component library that gives us the building blocks we need to build our React applications.
 - Yup: A JavaScript schema builder for value parsing and validation.
 
 ## Usage
@@ -26,5 +26,5 @@ Welcome to my portfolio page! This project showcases my skills and experienced i
 2. Navigate to the project directory.
 3. Install dependencies using `npm install`.
 4. Start the development server using `npm start`.
-5. Access the portfolio in your browser at `http://localhost:3000`.
+5. Access the portfolio in browser at `http://localhost:3000`.
 
